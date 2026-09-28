@@ -14,6 +14,8 @@
 
 ---
 
+**[Live demo](https://guards-ui.vercel.app)** (simulated data)
+
 ## Built at Pythathon Buenos Aires
 
 Guards was built for **Pythathon**, the Pyth Network hackathon held in Buenos Aires in March 2026.
